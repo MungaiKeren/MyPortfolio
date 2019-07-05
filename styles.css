@@ -1,4 +1,4 @@
-html{
+ html{
     scroll-behavior: smooth;
 }
 body{
@@ -7,111 +7,53 @@ body{
     margin-left: 100px;
 }
 #logo{
-    display: flex;html{
-        scroll-behavior: smooth;
-    }
-    body{
-        background-color: black; 
-        margin-right: 100px;
-        margin-left: 100px;
-    }
-    #logo{
-        display: flex;
-        align-items: center;
-        float: left;
-        font-family: 'Mountains of Christmas', cursive;
-        font-size: 30px;
-    }
-    nav{
-        max-width: 100%;
-        padding:20px;
-        margin-right: 0%;
-        background-color: #f2f4d1;
-    }
-    nav>ul{
-        text-align: right;
-    }
-    nav>ul>li{
-        display: inline-block;
-        border-right: 1px dotted black;
-        justify-content: space-around;
-        font-size: 18px;
-    }
-    nav>ul>li>a{
+     display: flex;
+     align-items: center;
+     float: left;
+     font-family: 'Mountains of Christmas', cursive;
+     font-size: 30px;
+}
+nav{
+   max-width: 100%;
+   padding:20px;
+   margin-right: 0%;
+   background-color: #f2f4d1;
+}
+nav>ul{
+      text-align: right;
+}
+nav>ul>li{
+         display: inline-block;
+         border-right: 1px dotted black;
+         justify-content: space-around;
+         font-size: 18px;
+}
+nav>ul>li>a{
         text-decoration: none;
         color: #f2a2e4;
         padding: 18px;
         margin-right: 0;
-    }
-    nav>ul>li:last-child{
+}
+nav>ul>li:last-child{
         border: none;
-    }
-    nav>ul>li> a:hover{
+}
+nav>ul>li> a:hover{
         box-shadow: 0 0 2px #525252;
         color: black;
         text-transform: uppercase;
-      }
-    img{
-        border-radius: 50%;
-    }    
-    #home{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        color: white;
-        height: 550px;
-        width: 90%;
-    }
-    #Projects{
-        background-color: #f2a2e4;
-        color:black;
-    }
-    align-items: center;
-    float: left;
-    font-family: 'Mountains of Christmas', cursive;
-    font-size: 30px;
 }
-nav{
-    max-width: 100%;
-    padding:20px;
-    margin-right: 0%;
-    background-color: #f2f4d1;
-}
-nav>ul{
-    text-align: right;
-}
-nav>ul>li{
-    display: inline-block;
-    border-right: 1px dotted black;
-    justify-content: space-around;
-    font-size: 18px;
-}
-nav>ul>li>a{
-    text-decoration: none;
-    color: #f2a2e4;
-    padding: 18px;
-    margin-right: 0;
-}
-nav>ul>li:last-child{
-    border: none;
-}
-nav>ul>li> a:hover{
-    box-shadow: 0 0 2px #525252;
-    color: black;
-    text-transform: uppercase;
-  }
 img{
-    border-radius: 50%;
+   border-radius: 50%;
 }    
 #home{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    height: 550px;
-    width: 90%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: white;
+     height: 550px;
+     width: 90%;
 }
 #Projects{
-    background-color: beige;
-    color: white;
+        background-color: #f2a2e4;
+        color:black;
 }
