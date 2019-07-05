@@ -48,14 +48,19 @@ nav>ul>li> a:hover{
    width: 200px;
 }      
 #home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
      color: white;
      height: 550px;
      width: 90%;
 }
 p#hm{
     margin-left: 20px;
-    font-size: 20px;
+    font-size: 26px;
+    color: white;
     font-family: 'Cinzel', serif;
+    text-align: center;
 }
 #Projects{
         background-color: white;
