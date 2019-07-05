@@ -1,10 +1,10 @@
- html{
+html{
     scroll-behavior: smooth;
 }
-body{
-    background-color: black; 
-    margin-right: 100px;
-    margin-left: 100px;
+#bckimg{
+    background-image: url('https://wpmisc.com/sites/default/files/wallpaper/abstract/66053/dark-tech-hd-wallpapers-66053-4605847.png');
+    background-size: cover;
+    background-repeat: no-repeat; 
 }
 #logo{
      display: flex;
@@ -12,12 +12,12 @@ body{
      float: left;
      font-family: 'Mountains of Christmas', cursive;
      font-size: 30px;
+     color: white;
 }
 nav{
    max-width: 100%;
    padding:20px;
    margin-right: 0%;
-   background-color: #f2f4d1;
 }
 nav>ul{
       text-align: right;
@@ -39,21 +39,27 @@ nav>ul>li:last-child{
 }
 nav>ul>li> a:hover{
         box-shadow: 0 0 2px #525252;
-        color: black;
+        color: white;
         text-transform: uppercase;
 }
-img{
-   border-radius: 50%;
-}    
+ img{
+   border-radius: 2%;
+   height: 200px;
+   width: 200px;
+}      
 #home{
-     display: flex;
-     justify-content: center;
-     align-items: center;
      color: white;
      height: 550px;
      width: 90%;
 }
+p#hm{
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: 'Cinzel', serif;
+}
 #Projects{
-        background-color: #f2a2e4;
+        background-color: white;
         color:black;
+        margin-right: 100px;
+        margin-left: 100px;
 }
