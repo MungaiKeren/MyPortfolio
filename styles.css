@@ -43,9 +43,10 @@ nav>ul>li> a:hover{
         text-transform: uppercase;
 }
  img{
-   border-radius: 2%;
-   height: 200px;
-   width: 200px;
+   border-radius: 5%;
+   margin-left:50px; 
+   height: 400px;
+   width: 300px;
 }      
 #home{
     /* display: flex;
@@ -67,4 +68,14 @@ p#hm{
         color:black;
         margin-right: 100px;
         margin-left: 100px;
+}
+h1,p,ul,li#Projects{
+        text-align: center;
+        list-style: none;
+        font-size: 24px;
+}
+#bckimgcontainer{
+        background-image: url('https://github.com/MungaiKeren/My-Shoe-images/blob/master/me.jpg?raw=true');
+        background-size: cover;
+        background-repeat: no-repeat;
 }
