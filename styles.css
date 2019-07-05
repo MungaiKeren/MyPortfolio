@@ -1,7 +1,5 @@
 body{
-    /* background-image: linear-gradient(to bottom, #010059,#dff0ea ) ; 
-    background-size: cover;
-    background-repeat: no-repeat; */
+    background-color: black; 
 }
 #logo{
     display: flex;
@@ -14,7 +12,7 @@ nav{
     max-width: 100%;
     padding:20px;
     margin-right: 0%;
-    background-color: #b0f4e6;
+    background-color: #f2f4d1;
 }
 nav>ul{
     text-align: right;
@@ -39,3 +37,10 @@ nav>ul>li> a:hover{
     color: black;
     text-transform: uppercase;
   }
+img{
+    border-radius: 2%;
+}    
+#home{
+    background-color: black; 
+    color: white;
+}
