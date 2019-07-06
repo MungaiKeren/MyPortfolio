@@ -48,8 +48,9 @@ nav>ul>li> a:hover{
  img{
    border-radius: 50%;
    margin-left:50px; 
-   height: 600px;
-   width: 600px;
+   height: 400px;
+   width: 400px;
+   margin-top: 50px;
 }      
 #home{
      color: white;
