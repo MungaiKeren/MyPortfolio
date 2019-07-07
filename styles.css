@@ -70,10 +70,13 @@ p#hm{
         margin-right: 100px;
         margin-left: 100px;
 }
-h1,p,ul,li#Projects{
+h1,p{
         text-align: center;
         list-style: none;
         font-size: 24px;
+}
+ul{
+        
 }
 #contacts{
         font-size: 24px;
