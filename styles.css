@@ -51,6 +51,7 @@ nav>ul>li> a:hover{
    height: 400px;
    width: 400px;
    margin-top: 50px;
+   float: left;
 }      
 #home{
      color: white;
@@ -70,13 +71,13 @@ p#hm{
         margin-right: 100px;
         margin-left: 100px;
 }
-h1,p{
+h1,p#projects{
         text-align: center;
         list-style: none;
         font-size: 24px;
 }
-ul{
-        
+ul,li#projects{
+        font-size: 24px;
 }
 #contacts{
         font-size: 24px;
