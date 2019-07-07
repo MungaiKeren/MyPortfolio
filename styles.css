@@ -99,6 +99,12 @@ h2{
 p{
         font-size: 24px;
 }
+p#wlcm{
+        font-size: 24px;
+        margin-left: 20px;
+        font-family: 'Lobster Two', cursive;
+        text-transform: uppercase;
+}
 span{
         font-size: 18px;
         font-family: 'Courier New', Courier, monospace;
