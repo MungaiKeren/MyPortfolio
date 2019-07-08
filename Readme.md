@@ -13,3 +13,5 @@ To get to me visit:
 * wambukeren@gmail.com
 * @KayrenMungai in Twitter
 ### License
+* MIT license 
+* copyright (c)
