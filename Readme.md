@@ -3,8 +3,6 @@
 #### By Keren Mungai
 ## Description
 The portfolio describes about me, my hobbies, interests and a list of projects that I have done, with active links to them!
-## Screenshot
-<img src="https://github.com/MungaiKeren/MyPortfolio/blob/master/MyPortfolioscreenshot.png?raw=true" height="600" width="100%">
 ## Setup/Installation Requirements
 * To install this files;
 * Open the terminal(ctrl+alt+t) 
