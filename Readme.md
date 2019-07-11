@@ -8,8 +8,6 @@ The portfolio describes about me, my hobbies, interests and a list of projects t
 * Open the terminal(ctrl+alt+t) 
 * On the required directory, eg(desktop 'cd Desktop') run the following commands;
 * git clone 'https://github.com/MungaiKeren/MyPortfolio.git'
-## Screenshot
-  <img src="https://github.com/MungaiKeren/MyPortfolio/blob/master/MyPortfolioscreenshot.png?raw=true" height="450" width="100%">
 ## Live page
 * Visit https://MungaiKeren.github.io/MyPortfolio
 ## Technologies Used
@@ -22,3 +20,5 @@ To get to me visit:
 ### License
 * MIT license 
 * copyright (c)
+## Screenshot
+  <img src="https://github.com/MungaiKeren/MyPortfolio/blob/master/MyPortfolioscreenshot.png?raw=true" height="450" width="100%">
